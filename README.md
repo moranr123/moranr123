@@ -5,7 +5,7 @@
 <a href="https://www.facebook.com/moranr123/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/ronaaldqwe/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-## 👨‍💻 Jr Full Stack Developer
+## 👨‍💻 Full Stack Developer
 
 I'm a 4th year BSIT student at STI West Negros University, passionate about building digital solutions. I create full-stack applications using modern web and mobile technologies, helping others turn their ideas into functional applications.
 
