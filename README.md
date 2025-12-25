@@ -42,50 +42,19 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 ### 🎓 Certifications
 
 #### Meta Professional Certificates
-<a href="https://coursera.org/share/f0d70fac1ddb97156a1b666f42b0fe55" target="_blank" rel="noopener noreferrer">
-  <img src="assets/MetaFrontEnd.png" alt="Meta Front-End Developer Professional Certificate" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://coursera.org/share/eb6df70c9c3564b5b3fd279d841efd4c" target="_blank" rel="noopener noreferrer">
-  <img src="assets/AdvanceReact.png" alt="Advanced React - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://coursera.org/share/dbfccf58336261f668d3ffefa64c1507" target="_blank" rel="noopener noreferrer">
-  <img src="assets/ReactBasics.png" alt="React Basics - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://www.coursera.org/account/accomplishments/verify/5OQG3KSZNFEO" target="_blank" rel="noopener noreferrer">
-  <img src="assets/ProgrammingWithJavascript.png" alt="Programming With Javascript - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://coursera.org/share/afba467e7261ad1c7bd2faed78aae608" target="_blank" rel="noopener noreferrer">
-  <img src="assets/IntroToFrontEnd.png" alt="Introduction to Front-End Development - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://coursera.org/share/281b6eaac24ff767654c8d54af7ea6e1" target="_blank" rel="noopener noreferrer">
-  <img src="assets/ProgrammingInPython.png" alt="Programming in Python - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://coursera.org/share/17815bc3ff80fb0fed4f33a20d2e1a65" target="_blank" rel="noopener noreferrer">
-  <img src="assets/VersionControl.png" alt="Version Control - Meta" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
+- ✅ **[Meta Front-End Developer Professional Certificate](https://coursera.org/share/f0d70fac1ddb97156a1b666f42b0fe55)**
+- ✅ **[Advanced React](https://coursera.org/share/eb6df70c9c3564b5b3fd279d841efd4c)** - Meta
+- ✅ **[React Basics](https://coursera.org/share/dbfccf58336261f668d3ffefa64c1507)** - Meta
+- ✅ **[Programming With Javascript](https://www.coursera.org/account/accomplishments/verify/5OQG3KSZNFEO)** - Meta
+- ✅ **[Introduction to Front-End Development](https://coursera.org/share/afba467e7261ad1c7bd2faed78aae608)** - Meta
+- ✅ **[Programming in Python](https://coursera.org/share/281b6eaac24ff767654c8d54af7ea6e1)** - Meta
+- ✅ **[Version Control](https://coursera.org/share/17815bc3ff80fb0fed4f33a20d2e1a65)** - Meta
 
 #### Other Certifications
-<a href="https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/front-end-development-libraries" target="_blank" rel="noopener noreferrer">
-  <img src="assets/FrontEndDevelopment.png" alt="Front-End Development Libraries - freeCodeCamp" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/responsive-web-design" target="_blank" rel="noopener noreferrer">
-  <img src="assets/ResponsiveWebDesign.png" alt="Responsive Web Design - freeCodeCamp" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/javascript-algorithms-and-data-structures-v8" target="_blank" rel="noopener noreferrer">
-  <img src="assets/JSAlgoandDataStruc.png" alt="JavaScript Algorithms and Data Structures - freeCodeCamp" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
-
-<a href="https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/" target="_blank" rel="noopener noreferrer">
-  <img src="assets/GitandGithub.png" alt="Git and GitHub - Udemy" width="200" style="margin: 5px; border: 2px solid #ddd; border-radius: 8px; cursor: pointer;">
-</a>
+- ✅ **[Front-End Development Libraries](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/front-end-development-libraries)** - freeCodeCamp
+- ✅ **[Responsive Web Design](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/responsive-web-design)** - freeCodeCamp
+- ✅ **[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/javascript-algorithms-and-data-structures-v8)** - freeCodeCamp
+- ✅ **[Git and GitHub](https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/)** - Udemy
 
 </td>
 </tr>
