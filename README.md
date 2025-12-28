@@ -13,6 +13,10 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -32,7 +36,8 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🎓 Certifications
 
@@ -51,10 +56,12 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 - ✅ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/javascript-algorithms-and-data-structures-v8) - freeCodeCamp
 - ✅ [Git and GitHub](https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/) - Udemy
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 GitHub Stats & Activity
-
-![Ronald's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moranr123&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moranr123&layout=compact&theme=tokyonight)
+## 📊 GitHub Activity
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moranr123&theme=tokyonight)
+
