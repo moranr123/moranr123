@@ -63,5 +63,7 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 ---
 
 ## 📊 GitHub Activity
-[![GitHub Streak]] (https://streak-stats.demolab.com/?user=moranr123)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=moranr123&theme=tokyonight)](https://github.com/moranr123)
+
 
