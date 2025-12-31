@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Full Stack Developer
 
-I'm a 4th year BSIT student at STI West Negros University, passionate about building digital solutions. I create full-stack applications using modern web and mobile technologies, helping others turn their ideas into functional applications.
+I build real-world web & mobile applications that automate tasks, manage data, and solve real daily problems.
 
 ---
 
@@ -62,7 +62,13 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 
 ---
 
-
+📩 Hire Me
+I’m currently open for:
+Internship
+Junior Web Developer
+Frontend / Full Stack Roles
+🌐 Portfolio: https://ronaldwebportfolio.vercel.app
+📍 Bacolod City, Philippines
 
 
 
