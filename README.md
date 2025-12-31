@@ -61,7 +61,6 @@ I'm a 4th year BSIT student at STI West Negros University, passionate about buil
 </table>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moranr123)
 
 
 
