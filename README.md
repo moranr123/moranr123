@@ -70,12 +70,12 @@ I’m currently open for:
 - Junior Frontend / Full Stack Developer Roles  
 - Freelance Projects  
 
-📧 Email: your@email.com  
+📧 Email: ronaldmoran930@gmail.com  
 🌐 Portfolio: https://ronaldwebportfolio.vercel.app  
 📍 Bacolod City, Philippines
 
 ---
 
-## 📊 GitHub Stats
+### 🔥 GitHub Streak
 
-![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=moranr123&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=moranr123&theme=tokyonight)
