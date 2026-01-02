@@ -76,6 +76,8 @@ I’m currently open for:
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moranr123&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moranr123&theme=tokyonight&hide_border=true" />
+</p>
