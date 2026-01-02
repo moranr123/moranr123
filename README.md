@@ -78,4 +78,4 @@ I’m currently open for:
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=moranr123&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=moranr123&theme=tokyonight)
