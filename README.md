@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Full Stack Developer
 
-I build real-world web & mobile applications that automate tasks, manage data, and solve real daily problems.
+I build real-world web & mobile applications that automate tasks, manage data, and solve real daily problems using React, Node.js, Firebase, and modern web technologies.
 
 ---
 
@@ -62,14 +62,20 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 
 ---
 
-📩 Hire Me
+## 📩 Let’s Work Together
+
 I’m currently open for:
-Internship
-Junior Web Developer
-Frontend / Full Stack Roles
-🌐 Portfolio: https://ronaldwebportfolio.vercel.app
+
+- Internship Opportunities  
+- Junior Frontend / Full Stack Developer Roles  
+- Freelance Projects  
+
+📧 Email: your@email.com  
+🌐 Portfolio: https://ronaldwebportfolio.vercel.app  
 📍 Bacolod City, Philippines
 
+---
 
+## 📊 GitHub Stats
 
-
+![Ronald's GitHub stats](https://github-readme-stats.vercel.app/api?username=moranr123&show_icons=true&theme=tokyonight)
