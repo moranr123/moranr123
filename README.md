@@ -75,9 +75,3 @@ I’m currently open for:
 📍 Bacolod City, Philippines
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=moranr123&theme=tokyonight&hide_border=true" />
-</p>
