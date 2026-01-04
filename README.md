@@ -46,7 +46,6 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 - ✅ [Advanced React](https://coursera.org/share/eb6df70c9c3564b5b3fd279d841efd4c) - Meta
 - ✅ [React Basics](https://coursera.org/share/dbfccf58336261f668d3ffefa64c1507) - Meta
 - ✅ [Programming With Javascript](https://www.coursera.org/account/accomplishments/verify/5OQG3KSZNFEO) - Meta
-- ✅ [Introduction to Front-End Development](https://coursera.org/share/afba467e7261ad1c7bd2faed78aae608) - Meta
 - ✅ [Programming in Python](https://coursera.org/share/281b6eaac24ff767654c8d54af7ea6e1) - Meta
 - ✅ [Version Control](https://coursera.org/share/17815bc3ff80fb0fed4f33a20d2e1a65) - Meta
 
