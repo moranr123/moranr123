@@ -50,7 +50,6 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 - ✅ [Version Control](https://coursera.org/share/17815bc3ff80fb0fed4f33a20d2e1a65) - Meta
 
 #### Other Certifications
-- ✅ [Front-End Development Libraries](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/front-end-development-libraries) - freeCodeCamp
 - ✅ [Responsive Web Design](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/responsive-web-design) - freeCodeCamp
 - ✅ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/javascript-algorithms-and-data-structures-v8) - freeCodeCamp
 - ✅ [Git and GitHub](https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/) - Udemy
