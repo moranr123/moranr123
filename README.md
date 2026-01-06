@@ -73,3 +73,5 @@ I’m currently open for:
 📍 Bacolod City, Philippines
 
 ---
+
+![GitHub Streak Card](http://localhost:5000/api/streak/card/moranr123?cardWidth=400&cardHeight=200&t=1767731683372)
