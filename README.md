@@ -1,4 +1,4 @@
-# Ronald Moran Jr
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&pause=1000&center=true&vCenter=true&width=435&lines=RONALD+MORAN+JR)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=FULL+STACK+DEVELOPER)](https://git.io/typing-svg)
 
@@ -9,7 +9,6 @@
 
 ---
 
-## 👨‍💻 Full Stack Developer
 
 I build real-world web & mobile applications that automate tasks, manage data, and solve real daily problems using React, Node.js, Firebase, and modern web technologies.
 
