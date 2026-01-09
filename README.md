@@ -61,18 +61,5 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 
 ---
 
-## 📩 Let’s Work Together
-
-I’m currently open for:
-
-- Internship Opportunities  
-- Junior Frontend / Full Stack Developer Roles  
-- Freelance Projects  
-
-📧 Email: ronaldmoran930@gmail.com  
-🌐 Portfolio: https://ronaldwebportfolio.vercel.app  
-📍 Bacolod City, Philippines
-
----
-
-![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?theme=ffffff&_t=1767975152849)
+![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?theme=58a6ff&_t=1767975380287)
+![GitHub Top Languages](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?statType=top_languages&theme=58a6ff&_t=1767975433279)
