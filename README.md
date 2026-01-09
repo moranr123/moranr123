@@ -75,4 +75,4 @@ I’m currently open for:
 
 ---
 
-![GitHub Streak Card](http://localhost:5000/api/streak/card/moranr123?cardWidth=400&cardHeight=200&t=1767731683372)
+![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?theme=ffffff&_t=1767975152849)
