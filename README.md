@@ -61,13 +61,12 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 
 ---
 
----
 
 ## 🏗️ Currently Building: Resume Builder
 > A modern, automated platform to help developers create ATS-friendly resumes effortlessly.
 
 **Status:** Developing Core Engine  
-![Progress](https://geps.dev/progress/65) - 🚀 **Goal:** Simplify the job application process with pre-built templates.
+![Progress](https://geps.dev/progress/20) - 🚀 **Goal:** Simplify the job application process with pre-built templates.
 - 🛠️ **Stack:** React, Firebase Auth, and Tailwind CSS.
 - 🧩 **Next Step:** Implementing PDF Export functionality.
 
