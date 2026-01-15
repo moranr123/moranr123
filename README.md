@@ -44,15 +44,17 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 
 #### Meta Professional Certificates
 - ✅ [Meta Full Stack Developer](https://coursera.org/verify/specialization/FM7YDT2H0GG5) - Meta Professional Certificate
-  <img src="./MetaFullStack.png" alt="Meta Full Stack Developer" width="400">
 - ✅ [Meta Front-End Developer Professional Certificate](https://coursera.org/share/f0d70fac1ddb97156a1b666f42b0fe55)
-  <img src="./MetaFrontEnd.png" alt="Meta Front-End Developer" width="400">
 - ✅ [Advanced React](https://coursera.org/share/eb6df70c9c3564b5b3fd279d841efd4c) - Meta
-  <img src="./AdvanceReact.png" alt="Advanced React" width="400">
+- ✅ [React Basics](https://coursera.org/share/dbfccf58336261f668d3ffefa64c1507) - Meta
+- ✅ [Programming With Javascript](https://www.coursera.org/account/accomplishments/verify/5OQG3KSZNFEO) - Meta
+- ✅ [Programming in Python](https://coursera.org/share/281b6eaac24ff767654c8d54af7ea6e1) - Meta
+- ✅ [Version Control](https://coursera.org/share/17815bc3ff80fb0fed4f33a20d2e1a65) - Meta
 
 #### Other Certifications
+- ✅ [Responsive Web Design](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/responsive-web-design) - freeCodeCamp
+- ✅ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/fcc-ad9720d5-3c5c-4768-ab89-7004c863886f/javascript-algorithms-and-data-structures-v8) - freeCodeCamp
 - ✅ [Git and GitHub](https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/) - Udemy
-  <img src="./GitandGithub.png" alt="Git and GitHub" width="400">
 
 </td>
 </tr>
