@@ -44,15 +44,15 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 
 #### Meta Professional Certificates
 - ✅ [Meta Full Stack Developer](https://coursera.org/verify/specialization/FM7YDT2H0GG5) - Meta Professional Certificate
-  ![Meta Full Stack Developer](./MetaFullStack.png)
+  <img src="./MetaFullStack.png" alt="Meta Full Stack Developer" width="400">
 - ✅ [Meta Front-End Developer Professional Certificate](https://coursera.org/share/f0d70fac1ddb97156a1b666f42b0fe55)
-  ![Meta Front-End Developer](./MetaFrontEnd.png)
+  <img src="./MetaFrontEnd.png" alt="Meta Front-End Developer" width="400">
 - ✅ [Advanced React](https://coursera.org/share/eb6df70c9c3564b5b3fd279d841efd4c) - Meta
-  ![Advanced React](./AdvanceReact.png)
+  <img src="./AdvanceReact.png" alt="Advanced React" width="400">
 
 #### Other Certifications
 - ✅ [Git and GitHub](https://www.udemy.com/certificate/UC-53ffcce1-4250-4c9a-b935-09e6d235e521/) - Udemy
-  ![Git and GitHub](./GitandGithub.png)
+  <img src="./GitandGithub.png" alt="Git and GitHub" width="400">
 
 </td>
 </tr>
@@ -61,15 +61,6 @@ I build real-world web & mobile applications that automate tasks, manage data, a
 ---
 
 
-## 🏗️ Currently Building: Resume Builder
-> A modern, automated platform to help developers create ATS-friendly resumes effortlessly.
-
-**Status:** Developing Core Engine  
-![Progress](https://geps.dev/progress/20) - 🚀 **Goal:** Simplify the job application process with pre-built templates.
-- 🛠️ **Stack:** React, Firebase Auth, and Tailwind CSS.
-- 🧩 **Next Step:** Implementing PDF Export functionality.
-
----
 
 ![GitHub Streak Card](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?theme=58a6ff&_t=1767975380287)
 ![GitHub Top Languages](https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/moranr123?statType=top_languages&theme=58a6ff&_t=1767975433279)
